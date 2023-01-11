@@ -24,6 +24,11 @@ let newDog="Chihuahua";
 // Check and display how many letters are in newDog.
 console.log(newDog.length)
 // Display the newDog variable in uppercase and then in lowercase (no need to create new variables, just console.log twice).
+
+/**
+Correcteur: Yannick GOUGUIA
+Merci de corriger ces deux lignes
+*/
 console.log(newDog.toUpperCase)
 console.log(newDog.toLowerCase)
 // Check if the variable newDog is equal to “Chihuahua”
